@@ -522,12 +522,12 @@ var brainColor ="#111";
 var r2 = corrected(Math.round(complimentary2(r)));
 var g2 = corrected(Math.round(complimentary2(g)));
 var b2 = corrected(Math.round(complimentary2(b)));
-var brainColor2 ="#fff";
+var brainColor2 ="#8AFCC0";
 //get a complimentary color 3
 var r3 = corrected(Math.round(complimentary3(r)));
 var g3 = corrected(Math.round(complimentary3(g)));
 var b3 = corrected(Math.round(complimentary3(b)));
-var brainColor3 = "#fff";;
+var brainColor3 = "#8AFCC0";;
 
 var bp = document.getElementsByClassName("brainPath");
 for (var i=0; i<bp.length; i++){
